@@ -1,0 +1,11 @@
+.extrabold, p, .child{
+    font-weight: bolder;
+}
+.confirm{
+    background-color: green;
+    color: white; 
+}
+.cancel{
+    background-color: white;
+    color: black;
+}
